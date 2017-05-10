@@ -6,7 +6,6 @@
 	<groupId>com.project</groupId>
 	<artifactId>WebRestApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 
 	<name>WebRestApp</name>
 	<description>Project for Phonebook and Password safe</description>
@@ -82,6 +81,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>WebRestApp</finalName>
 	</build>
 
 

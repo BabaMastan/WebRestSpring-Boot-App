@@ -35,8 +35,8 @@ html, body, #login {
     top: 0;
     bottom: 0;
     display: block;
-    background-color: aqua;
-    box-shadow: 0 0 150px cyan;
+    background-color: #69f939;
+    box-shadow: 0 0 150px #b6fea0;
     border: 1px solid #00e0e0;
 }
 
